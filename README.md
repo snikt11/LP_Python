@@ -1,2 +1,2 @@
-# LP_Python
+# Linguagem de Programação Python (faculdade)
 Exercícios da faculdade
